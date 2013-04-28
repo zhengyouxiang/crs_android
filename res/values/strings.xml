@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">点评众包系统</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_load">点评众包</string>
+    <string name="title_activity_task_list">TaskListActivity</string>
+    <string name="title_activity_data_list">DataListActivity</string>
+    <string name="title_activity_my_task">MyTaskActivity</string>
+    <string name="title_activity_login_acivity">LoginAcivity</string>
+    <string name="title_activity_task">TaskActivity</string>
+    <string name="title_activity_single_task">SingleTaskActivity</string>
+    <string name="title_activity_data">DataActivity</string>
+    <string name="title_activity_dp_logout">DpLogoutActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_nearby">NearbyActivity</string>
+    <string-array name="typeArray">
+        <item >全部</item>
+        <item >美食</item>
+    </string-array>
+    <string-array name="radiusArray">
+        <item >500</item>
+        <item >1000</item>
+        <item >2000</item>
+    </string-array>
+
+</resources>
